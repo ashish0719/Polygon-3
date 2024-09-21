@@ -77,7 +77,7 @@ npx hardhat newcircuit --name newcircuit
    ```
      networks: {
     sepolia: {
-      url: "https://eth-sepolia.g.alchemy.com/v2/s6BQdMvz90hkyrS7nWx0mnIXPYiRUA8n", // Replace with your Alchemy API key
+      url: "https://eth-sepolia.g.alchemy.com/v2/your secret api key", // Replace with your Alchemy API key
       accounts: [""], // Replace with your Sepolia private key
     },
   }
